@@ -41,7 +41,7 @@ Dataset Source: [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ## Result
 
- * Accuracy for Test Data: 77.8%
+ * Accuracy for Test Data: 77.8%. 
    For training data:80.38%     (since there was no major difference in the accuracy score of the training and testing data no overfitting was required)
    
   
