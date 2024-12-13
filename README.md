@@ -35,9 +35,9 @@ Dataset Source: [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
   
 * Machine Learning Model:
 
-      *Data Splitting into training and test data 
+  1.Data Splitting into training and test data 
 
-      *Logistic Regression to train the model
+  2.Logistic Regression to train the model
 
 ## Result
 
